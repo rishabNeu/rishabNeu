@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Rishab here
+ 
+I'm a Graduate student doing my Masters in Information Systems at the College of Engineering in Northeastern University, Boston.
+
+I'm interested in Fullstack Engineering, Site Reliability Engineering and DevOps!
+
+Prior to my studies at Northeastern, I worked as a Senior Software Engineer in the Persistent Systems as a Senior Software developer. I was mainly involved in the development and maintenance of Alissa Interpret Web Applications and various other REST Api projects. I was heavily working with Deployment of the applications on cloud including building the entire pipeline, Infrastructure as Code using Terraform, Security and other cloud related activities
 
 <!--
 **rishabNeu/rishabNeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
