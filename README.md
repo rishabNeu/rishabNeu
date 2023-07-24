@@ -27,9 +27,10 @@ Prior to my studies at Northeastern, I worked as a Senior Software Engineer at P
 </p>
 
 
-My GitHub Stats:
+## 📈 My GitHub Stats:
 
-[![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabNeu)](https://github.com/rishabNeu/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishabNeu&show_icons=true&theme=gotham" alt="rishab" />
+
 <!--
 **rishabNeu/rishabNeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
