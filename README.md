@@ -25,6 +25,11 @@ Prior to my studies at Northeastern, I worked as a Senior Software Engineer at P
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+
+My GitHub Stats:
+
+[![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabNeu)](https://github.com/rishabNeu/github-readme-stats)
 <!--
 **rishabNeu/rishabNeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
