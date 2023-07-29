@@ -27,9 +27,15 @@ Prior to my studies at Northeastern, I worked as a Senior Software Engineer at P
 </p>
 
 
-## 📈 My GitHub Stats:
+### ⚙️ GitHub Analytics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishabNeu&show_icons=true&theme=gotham" alt="rishab" />
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabNeu&show_icons=true&locale=en&layout=compact&theme=merko" alt="rishabNeu" /></p><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabNeu&show_icons=true&locale=en&theme=merko" alt="rishabNeu" /></p><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabNeu&&theme=merko" alt="rishabNeu" /></p>
+
 
 <!--
 **rishabNeu/rishabNeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
